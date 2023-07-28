@@ -11,4 +11,5 @@
 - Output:
 ```shell
 Distance: 11261.22 meters
+Distance: 11.26 kilometers
 ```
